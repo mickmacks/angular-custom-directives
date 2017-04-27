@@ -35,6 +35,17 @@ h1:after, .card h6:after {
   border-color: black;
   color: white;
   padding: 1rem;
+  margin-bottom: 30px;
+  min-height: 16rem;
+  position: relative;
+}
+
+.card:hover {
+  background: #231e1e;
+  border-color: black;
+  color: white;
+  padding: 1rem;
+  margin-bottom: 30px;
   min-height: 16rem;
   position: relative;
 }
